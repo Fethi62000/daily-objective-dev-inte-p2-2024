@@ -14,7 +14,7 @@ Hachemi
     - [x] Maquette
 - [x] Choix d'un outil de maquettage
 - [x] Cadrer la demande client
-- [ ] Découvrir les règles ergonomiques et d'expérience utilisateur
+- [x] Découvrir les règles ergonomiques et d'expérience utilisateur
 
 ### HTML :
 
