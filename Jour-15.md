@@ -6,7 +6,7 @@ Hachemi
 
 ### Maquettage
 
-- [ ] Découvrir le maquettage d'interface d'une application
+- [x] Découvrir le maquettage d'interface d'une application
   - [ ] Comprendre la différence entre :
     - [ ] Zoning
     - [ ] Wireframe
